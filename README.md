@@ -9,6 +9,7 @@ Repository for PointCloudPortal, prepared for FOSSIGIS2021
 * a webserver set up with apache or nginx
 * PHP 
 * PDO SQLite (optional)
+* PotreeConverter (https://github.com/potree/PotreeConverter, https://github.com/potree/potree/)
 
 
 
