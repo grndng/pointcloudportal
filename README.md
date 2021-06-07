@@ -46,4 +46,5 @@ If a SQLite database is being used, the directory in which it is stored has to b
 
 ### ToDo:
 * Central path for strings for different versions of the portal (e.g. mobile)
+* Remove redundancies in general
 * Full installation guide for the portal
