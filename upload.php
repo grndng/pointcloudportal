@@ -201,7 +201,7 @@ aus Quelle: https://paulund.co.uk/php-delete-directory-and-files-in-directory)*/
               <input type="text" required maxlength="25" name="pwname"
               placeholder="Punktwolken-Bezeichnung"><font color="red">*</font>
               <input type="text" required maxlength="50" name="tags"
-              placeholder="Tags, durch komma getrennt"><font color="red">*</font>
+              placeholder="Tags, durch Komma getrennt"><font color="red">*</font>
               <input type="text" required maxlength="30" name="autor"
               placeholder="Autor"><font color="red">*</font> <br> <br>
               <p>Die Maximallänge der Beschreibung beträgt 250 Zeichen.</p>
